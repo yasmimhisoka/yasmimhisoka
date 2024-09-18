@@ -37,6 +37,6 @@ Yasmim</a></h1>
 </p>
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimhisoka&layout=compact&theme=dark&bg_color=0A0A0A" alt="Yasmim Top Languages"/>
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+
+<img align="center" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimhisoka&layout=compact&theme=dark&bg_color=0A0A0A" alt="Yasmim Top Languages"/>

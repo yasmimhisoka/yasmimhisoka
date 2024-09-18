@@ -4,7 +4,14 @@
 Yasmim</a></h1>
 <h3 align="center">A full stack developer learner. </h3>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<h3> Fun facts about me: </h3>
+
+- I'm a **HUGE** Harry Potter fan. ⚡🧙🏻‍♂️
+- I'm a true astronomy lover. 🪐
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me ☕ </h3>
 
 <p align="center">
 	

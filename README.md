@@ -14,12 +14,18 @@ Yasmim</a></h1>
 
 <h4> Languages </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,php,html,css,cpp,cs)](https://skillicons.dev)
 
 
 <h4> Frameworks </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,npm,nodejs)](https://skillicons.dev)
+
+
+<h4> Tools </h4>
+
+[![My Skills](https://skillicons.dev/icons?i=gamemakerstudio,vscode,figma,github,notion,)](https://skillicons.dev)
+
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me ☕ </h3>

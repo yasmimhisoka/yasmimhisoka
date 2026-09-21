@@ -8,12 +8,12 @@ Yasmim</a></h1>
 
 <h4> Languages </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,php,html,css,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,php,html,css,cs)](https://skillicons.dev)
 
 
 <h4> Frameworks </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,npm,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
 
 <h4> Tools </h4>

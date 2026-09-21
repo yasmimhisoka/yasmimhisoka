@@ -6,12 +6,6 @@ Yasmim</a></h1>
 <h3 align="center">A full stack developer learner. </h3> 
 
 
-<h3> Fun facts about me: </h3>
-
-- I'm a **HUGE** Harry Potter fan. ⚡🧙🏻‍♂️
-- I'm a true astronomy lover. 🪐
-
-
 <h4> Languages </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,java,php,html,css,cpp,cs)](https://skillicons.dev)

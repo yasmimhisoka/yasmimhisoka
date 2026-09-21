@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=435&height=55&lines=Welcome+to+Yasmim's+Github+profile.;Feel+free+to+explore+it.)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Yasmim</a></h1>
+<h1 align="center">Hi 👋, I'm Yasmim</a></h1>
 <h3 align="center">A full stack developer learner. </h3> 
 
 
